@@ -1,7 +1,3 @@
 Second file, using VI to create.
 
-change in branch.
-
-Changed after merge in master. Will this work? 
-
-Insterting this change in branch. Why would anyone mess with master while I'm working on this branch??!
+Inserting this change in branch. Why would anyone mess with master while I'm working on this branch??!
