@@ -1,1 +1,3 @@
+echo smecho. Ugh. Strings and what not.
+
 this is my echo command file
